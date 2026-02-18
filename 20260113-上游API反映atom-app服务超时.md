@@ -145,3 +145,6 @@ by_tags.rpc_in.error.counter: rpc入口流量，由mesh上报
 
 
 # 6、待改进项
+
+
+<img width="3024" height="15168" alt="screencapture-cooper-didichuxing-knowledge-2200018798158-2206494939058-2026-02-19-01_22_15" src="https://github.com/user-attachments/assets/57a7097b-f4ff-4fd3-a4ad-3dfbc679dde1" />
